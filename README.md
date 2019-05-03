@@ -18,3 +18,13 @@ My first GitHub Repo
 
 - tennis
 - swimming
+
+## Favourite Animals
+
+- dogs
+- cats
+- snakes
+ 
+
+
+
